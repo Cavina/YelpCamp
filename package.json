@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "18.13.0"
+  },
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.15.3",
     "cloudinary": "^1.41.3",
